@@ -1,0 +1,19 @@
+2023.02.07 19:14:52 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/seanmccue/Documents/School/CSC/Calculator/.metals/lsp.trace.json or /Users/seanmccue/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.02.07 19:14:53 INFO  logging to file /Users/seanmccue/Documents/School/CSC/Calculator/.metals/metals.log
+2023.02.07 19:14:53 INFO  Started: Metals version 0.11.10 in workspace '/Users/seanmccue/Documents/School/CSC/Calculator' for client Visual Studio Code 1.75.0.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/seanmccue/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.07 19:14:54 INFO  time: initialize in 1.29s
+2023.02.07 19:14:56 WARN  Build server is not auto-connectable.
+2023.02.07 19:14:56 WARN  no build tool detected in workspace '/Users/seanmccue/Documents/School/CSC/Calculator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.07 19:14:56 WARN  no build target for: /Users/seanmccue/Documents/School/CSC/Calculator/HelloWorld.java
+Feb 07, 2023 7:14:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Feb 07, 2023 7:14:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2023.02.07 19:14:58 WARN  no build target for: /Users/seanmccue/Documents/School/CSC/Calculator/HelloWorld.java
+2023.02.07 19:34:01 INFO  shutting down Metals
